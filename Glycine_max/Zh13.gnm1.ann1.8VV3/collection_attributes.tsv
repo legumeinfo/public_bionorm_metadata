@@ -1,0 +1,13 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	glyma.Zh13.gnm1.ann1.8VV3.protein_primaryTranscript.faa.gz	annotation	primary	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+1	glyma.Zh13.gnm1.ann1.8VV3.info_ref_hash.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+2	MANIFEST.8VV3.descriptions.yml	annotation	descriptions	Glycine	max	Glycine max	glyma	8VV3	Zh13	False						1							1								
+3	glyma.Zh13.gnm1.ann1.8VV3.info_gene_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+4	glyma.Zh13.gnm1.ann1.8VV3.protein.faa.gz	annotation	protein	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+5	glyma.Zh13.gnm1.ann1.8VV3.cds_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+6	glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz.tbi	annotation	tabix	Glycine	max	Glycine max	glyma	8VV3	Zh13	False					gff	1							1								
+7	glyma.Zh13.gnm1.ann1.8VV3.cds.fna.gz	annotation	cds	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+8	glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz	annotation	gff	Glycine	max	Glycine max	glyma	8VV3	Zh13	True						1							1								
+9	CHECKSUM.8VV3.md5	annotation	checksum	Glycine	max	Glycine max	glyma	8VV3	Zh13	False						1							1								
+10	README.8VV3.yml	annotation	readme	Glycine	max	Glycine max	glyma	8VV3	Zh13	False						1							1								
+11	MANIFEST.8VV3.correspondence.yml	annotation	correspondence	Glycine	max	Glycine max	glyma	8VV3	Zh13	False						1							1								

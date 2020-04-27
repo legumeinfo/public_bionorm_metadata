@@ -1,0 +1,22 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	glyma.Wm82.gnm2.ann1.RVB6.markers.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+1	glyma.Wm82.gnm2.ann1.RVB6.transcript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+2	original_README.txt	annotation	original_text	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+3	CHECKSUM.RVB6.md5	annotation	checksum	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+4	glyma.Wm82.gnm2.ann1.RVB6.cds_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+5	glyma.Wm82.gnm2.ann1.RVB6.info_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+6	original_data_usage_policy.txt	annotation	original_text	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+7	MANIFEST.RVB6.descriptions.yml	annotation	descriptions	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+8	glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz	annotation	gff	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+9	glyma.Wm82.gnm2.ann1.RVB6.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+10	glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+11	glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+12	glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz	annotation	protein	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+13	glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz.tbi	annotation	tabix	Glycine	max	Glycine max	glyma	RVB6	Wm82	False					gff	1							2								
+14	glyma.Wm82.gnm2.ann1.RVB6.gene.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+15	README.RVB6.yml	annotation	readme	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+16	MANIFEST.RVB6.correspondence.yml	annotation	correspondence	Glycine	max	Glycine max	glyma	RVB6	Wm82	False						1							2								
+17	glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz	annotation	cds	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+18	glyma.Wm82.gnm2.ann1.RVB6.protein_primaryTranscript.faa.gz	annotation	primary	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+19	glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								
+20	glyma.Wm82.gnm2.ann1.RVB6.locus_transcript_name_map.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	RVB6	Wm82	True						1							2								

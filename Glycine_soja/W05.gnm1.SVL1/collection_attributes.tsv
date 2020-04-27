@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	glyso.W05.gnm1.SVL1.genome_main.fna.gz.gzi	genome	gzindex	Glycine	soja	Glycine soja	glyso	SVL1	W05	False					genome								1								
+1	README.SVL1.yml	genome	readme	Glycine	soja	Glycine soja	glyso	SVL1	W05	False													1								
+2	CHECKSUM.SVL1.md5	genome	checksum	Glycine	soja	Glycine soja	glyso	SVL1	W05	False													1								
+3	glyso.W05.gnm1.SVL1.genome_main.fna.gz.fai	genome	faidx	Glycine	soja	Glycine soja	glyso	SVL1	W05	False					genome								1								
+4	glyso.W05.gnm1.SVL1.genome_main.fna.gz	genome	genome	Glycine	soja	Glycine soja	glyso	SVL1	W05	True													1								
+5	MANIFEST.SVL1.descriptions.yml	genome	descriptions	Glycine	soja	Glycine soja	glyso	SVL1	W05	False													1								
+6	MANIFEST.SVL1.correspondence.yml	genome	correspondence	Glycine	soja	Glycine soja	glyso	SVL1	W05	False													1								

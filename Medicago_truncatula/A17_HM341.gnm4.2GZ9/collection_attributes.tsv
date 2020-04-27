@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	CHECKSUM.2GZ9.md5	genome	checksum	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False													4								
+1	medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz	genome	genome	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	True													4								
+2	README.2GZ9.yml	genome	readme	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False													4								
+3	medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz.gzi	genome	gzindex	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False					genome								4								
+4	medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz.fai	genome	faidx	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False					genome								4								
+5	MANIFEST.2GZ9.descriptions.yml	genome	descriptions	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False													4								
+6	MANIFEST.2GZ9.correspondence.yml	genome	correspondence	Medicago	truncatula	Medicago truncatula	medtr	2GZ9	A17_HM341	False													4								

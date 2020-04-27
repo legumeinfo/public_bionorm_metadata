@@ -1,0 +1,15 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	arahy.Tifrunner.gnm2.ann1.4K0L.transcript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+1	arahy.Tifrunner.gnm2.ann1.4K0L.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+2	arahy.Tifrunner.gnm2.ann1.4K0L.protein_primaryTranscript.faa.gz	annotation	primary	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+3	arahy.Tifrunner.gnm2.ann1.4K0L.cds_primaryTranscript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+4	arahy.Tifrunner.gnm2.ann1.4K0L.info_fwd_chain.txt.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+5	arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+6	arahy.Tifrunner.gnm2.ann1.4K0L.info_rev_chain.txt.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+7	MANIFEST.4K0L.descriptions.yml	annotation	descriptions	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	False						1							2								
+8	README.4K0L.yml	annotation	readme	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	False						1							2								
+9	arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz	annotation	gff	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+10	MANIFEST.4K0L.correspondence.yml	annotation	correspondence	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	False						1							2								
+11	arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+12	arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz	annotation	protein	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	True						1							2								
+13	CHECKSUM.4K0L.md5	annotation	checksum	Arachis	hypogaea	Arachis hypogaea	arahy	4K0L	Tifrunner	False						1							2								

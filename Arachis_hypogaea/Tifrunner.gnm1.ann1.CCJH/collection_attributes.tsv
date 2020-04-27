@@ -1,0 +1,14 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	arahy.Tifrunner.gnm1.ann1.CCJH.protein_primaryTranscript.faa.gz	annotation	primary	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+1	arahy.Tifrunner.gnm1.ann1.CCJH.info_descriptors.txt.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+2	README.CCJH.yml	annotation	readme	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	False						1							1								
+3	CHECKSUM.CCJH.md5	annotation	checksum	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	False						1							1								
+4	arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3.gz	annotation	gff	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+5	MANIFEST.CCJH.descriptions.yml	annotation	descriptions	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	False						1							1								
+6	arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3.gz.tbi	annotation	tabix	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	False					gff	1							1								
+7	arahy.Tifrunner.gnm1.ann1.CCJH.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+8	arahy.Tifrunner.gnm1.ann1.CCJH.cds.fna.gz	annotation	cds	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+9	arahy.Tifrunner.gnm1.ann1.CCJH.transcript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+10	arahy.Tifrunner.gnm1.ann1.CCJH.cds_primaryTranscript.fna.gz	annotation	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								
+11	MANIFEST.CCJH.correspondence.yml	annotation	correspondence	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	False						1							1								
+12	arahy.Tifrunner.gnm1.ann1.CCJH.protein.faa.gz	annotation	protein	Arachis	hypogaea	Arachis hypogaea	arahy	CCJH	Tifrunner	True						1							1								

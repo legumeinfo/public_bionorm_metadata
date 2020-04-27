@@ -1,0 +1,13 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	tripr.MilvusB.gnm2.ann1.DFgp.protein_primaryTranscript.faa.gz	annotation	primary	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+1	tripr.MilvusB.gnm2.ann1.DFgp.cds_primaryTranscript.fna.gz	annotation	unrecognized	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+2	tripr.MilvusB.gnm2.ann1.DFgp.cds.fna.gz	annotation	cds	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+3	tripr.MilvusB.gnm2.ann1.DFgp.gene_models_gbrowse.gff3.gz	annotation	unrecognized	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+4	tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz.tbi	annotation	tabix	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	False					gff	1							2								
+5	tripr.MilvusB.gnm2.ann1.DFgp.protein.faa.gz	annotation	protein	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+6	tripr.MilvusB.gnm2.ann1.DFgp.info_annot_AHRD.txt.gz	annotation	unrecognized	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+7	README.DFgp.yml	annotation	readme	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	False						1							2								
+8	CHECKSUM.DFgp.md5	annotation	checksum	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	False						1							2								
+9	MANIFEST.DFgp.correspondence.yml	annotation	correspondence	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	False						1							2								
+10	tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz	annotation	gff	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	True						1							2								
+11	MANIFEST.DFgp.descriptions.yml	annotation	descriptions	Trifolium	pratense	Trifolium pratense	tripr	DFgp	MilvusB	False						1							2								

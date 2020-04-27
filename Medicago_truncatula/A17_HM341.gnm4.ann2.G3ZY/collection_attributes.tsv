@@ -1,0 +1,22 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					cds	2							4								
+1	medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz	annotation	primary	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+2	medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz	annotation	unrecognized	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+3	medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					protein	2							4								
+4	README.G3ZY.yml	annotation	readme	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								
+5	MANIFEST.G3ZY.correspondence.yml	annotation	correspondence	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								
+6	medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz.tbi	annotation	tabix	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					gff	2							4								
+7	medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					primary	2							4								
+8	medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz.fai	annotation	unrecognized	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								
+9	medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz	annotation	mrna	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+10	medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					mrna	2							4								
+11	medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz.gzi	annotation	unrecognized	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								
+12	medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					protein	2							4								
+13	CHECKSUM.G3ZY.md5	annotation	checksum	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								
+14	medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					mrna	2							4								
+15	medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					cds	2							4								
+16	medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False					primary	2							4								
+17	medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz	annotation	protein	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+18	medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz	annotation	gff	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+19	medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz	annotation	cds	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	True						2							4								
+20	MANIFEST.G3ZY.descriptions.yml	annotation	descriptions	Medicago	truncatula	Medicago truncatula	medtr	G3ZY	A17_HM341	False						2							4								

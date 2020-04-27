@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.bg5m.correspondence.yml	genome	correspondence	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False													2								
+1	cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz.fai	genome	faidx	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False					genome								2								
+2	cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz	genome	genome	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	True													2								
+3	CHECKSUM.bg5m.md5	genome	checksum	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False													2								
+4	cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz.gzi	genome	gzindex	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False					genome								2								
+5	README.bg5m.yml	genome	readme	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False													2								
+6	MANIFEST.bg5m.descriptions.yml	genome	descriptions	Cicer	arietinum	Cicer arietinum	cicar	bg5m	ICC4958	False													2								

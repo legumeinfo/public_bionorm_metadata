@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	vigra.VC1973A.gnm6.3nL8.genome_main.fna.gz.gzi	genome	gzindex	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False					genome								6								
+1	vigra.VC1973A.gnm6.3nL8.genome_main.fna.gz.fai	genome	faidx	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False					genome								6								
+2	MANIFEST.3nL8.correspondence.yml	genome	correspondence	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False													6								
+3	README.3nL8.yml	genome	readme	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False													6								
+4	MANIFEST.3nL8.descriptions.yml	genome	descriptions	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False													6								
+5	vigra.VC1973A.gnm6.3nL8.genome_main.fna.gz	genome	genome	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	True													6								
+6	CHECKSUM.3nL8.md5	genome	checksum	Vigna	radiata	Vigna radiata	vigra	3nL8	VC1973A	False													6								

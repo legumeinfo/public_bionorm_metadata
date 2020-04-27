@@ -1,0 +1,21 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	araip.K30076.gnm1.ann1.J37m.gene_models_main.gff3.gz.tbi	annotation	tabix	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False					gff	1							1								
+1	CHECKSUM.J37m.md5	annotation	checksum	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+2	araip.K30076.gnm1.ann1.J37m.transcript.fna.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+3	araip.K30076.gnm1.ann1.J37m.protein.faa.gz	annotation	protein	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+4	MANIFEST.J37m.correspondence.yml	annotation	correspondence	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+5	MANIFEST.J37m.descriptions.yml	annotation	descriptions	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+6	araip.K30076.gnm1.ann1.J37m.info_AED_scores.txt.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+7	original_usage_agreement.txt	annotation	original_text	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+8	wei.huang@login.scinet.science	annotation	invalid	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False	dots_in_name	4.0				1							1								
+9	araip.K30076.gnm1.ann1.J37m.protein_lowqual_or_TE.faa.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+10	araip.K30076.gnm1.ann1.J37m.genemodels_lowqual_or_TE.gff.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+11	araip.K30076.gnm1.ann1.J37m.info_annot_AHRD_slim.txt.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+12	original_gene_naming_scheme.txt	annotation	original_text	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+13	araip.K30076.gnm1.ann1.J37m.transcript_lowqual_or_TE.fna.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+14	araip.K30076.gnm1.ann1.J37m.gene_models_main.gff3.gz	annotation	gff	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+15	README.J37m.yml	annotation	readme	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								
+16	araip.K30076.gnm1.ann1.J37m.protein_annot_AHRD.faa.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+17	araip.K30076.gnm1.ann1.J37m.cds.fna.gz	annotation	cds	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+18	araip.K30076.gnm1.ann1.J37m.info_annot_AHRD.txt.gz	annotation	unrecognized	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	True						1							1								
+19	original.README.txt	annotation	original_text	Arachis	ipaensis	Arachis ipaensis	araip	J37m	K30076	False						1							1								

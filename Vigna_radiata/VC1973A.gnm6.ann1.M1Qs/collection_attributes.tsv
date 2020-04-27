@@ -1,0 +1,12 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz.tbi	annotation	tabix	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	False					gff	1							6								
+1	CHECKSUM.M1Qs.md5	annotation	checksum	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	False						1							6								
+2	MANIFEST.M1Qs.descriptions.yml	annotation	descriptions	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	False						1							6								
+3	MANIFEST.M1Qs.correspondence.yml	annotation	correspondence	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	False						1							6								
+4	vigra.VC1973A.gnm6.ann1.M1Qs.cds.fna.gz	annotation	cds	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								
+5	README.M1Qs.yml	annotation	readme	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	False						1							6								
+6	vigra.VC1973A.gnm6.ann1.M1Qs.genes.fna.gz	annotation	unrecognized	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								
+7	vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mRNA.gff3.gz	annotation	unrecognized	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								
+8	vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz	annotation	protein	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								
+9	vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz	annotation	gff	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								
+10	vigra.VC1973A.gnm6.ann1.M1Qs.scaffolds_in_pchr.gff3.gz	annotation	unrecognized	Vigna	radiata	Vigna radiata	vigra	M1Qs	VC1973A	True						1							6								

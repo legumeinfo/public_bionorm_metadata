@@ -1,0 +1,16 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					protein	1							1								
+1	medtr.HM185.gnm1.ann1.GB3D.cds.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					cds	1							1								
+2	medtr.HM185.gnm1.ann1.GB3D.cds.fna.gz	annotation	cds	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	True						1							1								
+3	medtr.HM185.gnm1.ann1.GB3D.cds.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					cds	1							1								
+4	MANIFEST.GB3D.descriptions.yml	annotation	descriptions	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False						1							1								
+5	MANIFEST.GB3D.correspondence.yml	annotation	correspondence	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False						1							1								
+6	medtr.HM185.gnm1.ann1.GB3D.gene_models_main.gff3.gz.tbi	annotation	tabix	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					gff	1							1								
+7	CHECKSUM.GB3D.md5	annotation	checksum	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False						1							1								
+8	medtr.HM185.gnm1.ann1.GB3D.mrna.fna.gz	annotation	mrna	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	True						1							1								
+9	medtr.HM185.gnm1.ann1.GB3D.mrna.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					mrna	1							1								
+10	medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					protein	1							1								
+11	medtr.HM185.gnm1.ann1.GB3D.gene_models_main.gff3.gz	annotation	gff	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	True						1							1								
+12	medtr.HM185.gnm1.ann1.GB3D.mrna.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False					mrna	1							1								
+13	README.GB3D.yml	annotation	readme	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	False						1							1								
+14	medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz	annotation	protein	Medicago	truncatula	Medicago truncatula	medtr	GB3D	HM185	True						1							1								

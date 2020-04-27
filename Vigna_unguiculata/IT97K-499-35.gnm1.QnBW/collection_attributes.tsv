@@ -1,0 +1,11 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	vigun.IT97K-499-35.gnm1.QnBw.genome_hardmasked.fna.gz	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	True	identifier	QnBw											1								
+1	vigun.IT97K-499-35.gnm1.QnBw.genome_main.fna.gz	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	True	identifier	QnBw											1								
+2	vigun.IT97K-499-35.gnm1.QnBw.genome_main.fna.gz.fai	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False	identifier	QnBw											1								
+3	README.QnBW.yml	genome	readme	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False													1								
+4	MANIFEST.QnBW.correspondence.yml	genome	correspondence	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False													1								
+5	vigun.IT97K-499-35.gnm1.QnBw.genome_softmasked.fna.gz	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	True	identifier	QnBw											1								
+6	vigun.IT97K-499-35.gnm1.QnBw.genome_main.fna.gz.gzi	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False	identifier	QnBw											1								
+7	CHECKSUM.QnBW.md5	genome	checksum	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False													1								
+8	vigun.IT97K-499-35.gnm1.QnBw.info_name_hash.txt	genome	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False													1								
+9	MANIFEST.QnBw.descriptions.yml	genome	invalid	Vigna	unguiculata	Vigna unguiculata	vigun	QnBW	IT97K-499-35	False	identifier	QnBw											1								

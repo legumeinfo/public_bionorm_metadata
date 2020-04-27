@@ -1,0 +1,21 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	glyma.Wm82.gnm4.ann1.T8TQ.info_synonyms.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+1	MANIFEST.T8TQ.descriptions.yml	annotation	descriptions	Glycine	max	Glycine max	glyma	T8TQ	Wm82	False						1							4								
+2	CHECKSUM.T8TQ.md5	annotation	checksum	Glycine	max	Glycine max	glyma	T8TQ	Wm82	False						1							4								
+3	glyma.Wm82.gnm4.ann1.T8TQ.info_gene_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+4	glyma.Wm82.gnm4.ann1.T8TQ.gene_models_exons.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+5	glyma.Wm82.gnm4.ann1.T8TQ.transcript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+6	glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.gff3.gz	annotation	gff	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+7	glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+8	glyma.Wm82.gnm4.ann1.T8TQ.info_locus_transcript_name_map.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+9	glyma.Wm82.gnm4.ann1.T8TQ.cds_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+10	glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz	annotation	cds	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+11	glyma.Wm82.gnm4.ann1.T8TQ.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+12	README.T8TQ.yml	annotation	readme	Glycine	max	Glycine max	glyma	T8TQ	Wm82	False						1							4								
+13	glyma.Wm82.gnm4.ann1.T8TQ.protein_primaryTranscript.faa.gz	annotation	primary	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+14	glyma.Wm82.gnm4.ann1.T8TQ.protein.faa.gz	annotation	protein	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+15	glyma.Wm82.gnm4.ann1.T8TQ.protein_low_confidence.faa.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+16	glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+17	MANIFEST.T8TQ.correspondence.yml	annotation	correspondence	Glycine	max	Glycine max	glyma	T8TQ	Wm82	False						1							4								
+18	glyma.Wm82.gnm4.ann1.T8TQ.gene_models_low_confidence_exons.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								
+19	glyma.Wm82.gnm4.ann1.T8TQ.cds_low_confidence.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	T8TQ	Wm82	True						1							4								

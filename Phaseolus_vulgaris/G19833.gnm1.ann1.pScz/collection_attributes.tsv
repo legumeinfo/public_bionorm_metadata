@@ -1,0 +1,15 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	original_Pvulgaris_218_v1.0.readme.txt	annotation	original_text	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	False						1							1								
+1	phavu.G19833.gnm1.ann1.pScz.transcript.fna.gz	annotation	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+2	MANIFEST.pScz.correspondence.yml	annotation	correspondence	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	False						1							1								
+3	phavu.G19833.gnm1.ann1.pScz.protein.faa.gz	annotation	protein	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+4	CHECKSUM.pScz.md5	annotation	checksum	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	False						1							1								
+5	phavu.G19833.gnm1.ann1.pScz.protein_primaryTranscript.faa.gz	annotation	primary	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+6	phavu.G19833.gnm1.ann1.pScz.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+7	phavu.G19833.gnm1.ann1.pScz.cds_primaryTranscript.fna.gz	annotation	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+8	README.pScz.yml	annotation	readme	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	False						1							1								
+9	phavu.G19833.gnm1.ann1.pScz.gene_models_main.gff3.gz	annotation	gff	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+10	MANIFEST.pScz.descriptions.yml	annotation	descriptions	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	False						1							1								
+11	phavu.G19833.gnm1.ann1.pScz.cds.fna.gz	annotation	cds	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+12	phavu.G19833.gnm1.ann1.pScz.info_annot.txt.gz	annotation	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								
+13	phavu.G19833.gnm1.ann1.pScz.repeatmasking.gff3.gz	annotation	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	pScz	G19833	True						1							1								

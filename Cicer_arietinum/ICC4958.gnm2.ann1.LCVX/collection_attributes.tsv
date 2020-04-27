@@ -1,0 +1,13 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	cicar.ICC4958.gnm2.ann1.LCVX.protein_primaryTranscript.faa.gz	annotation	primary	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								
+1	CHECKSUM.LCVX.md5	annotation	checksum	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False						1							2								
+2	cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz.tbi	annotation	tabix	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False					gff	1							2								
+3	cicar.ICC4958.gnm2.ann1.LCVX.cds.fna.gz	annotation	cds	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								
+4	cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz.tbi	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False						1							2								
+5	cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz	annotation	gff	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								
+6	MANIFEST.LCVX.descriptions.yml	annotation	descriptions	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False						1							2								
+7	MANIFEST.LCVX.correspondence.yml	annotation	correspondence	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False						1							2								
+8	cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								
+9	cicar.ICC4958.gnm2.ann1.LCVX.cds_primaryTranscript.fna.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								
+10	README.LCVX.yml	annotation	readme	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	False						1							2								
+11	cicar.ICC4958.gnm2.ann1.LCVX.protein.faa.gz	annotation	protein	Cicer	arietinum	Cicer arietinum	cicar	LCVX	ICC4958	True						1							2								

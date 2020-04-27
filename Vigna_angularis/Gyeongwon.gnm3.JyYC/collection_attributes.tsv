@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	README.JyYC.yml	genome	readme	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False													3								
+1	vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz.gzi	genome	gzindex	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False					genome								3								
+2	MANIFEST.JyYC.correspondence.yml	genome	correspondence	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False													3								
+3	vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz	genome	genome	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	True													3								
+4	vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz.fai	genome	faidx	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False					genome								3								
+5	MANIFEST.JyYC.descriptions.yml	genome	descriptions	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False													3								
+6	CHECKSUM.JyYC.md5	genome	checksum	Vigna	angularis	Vigna angularis	vigan	JyYC	Gyeongwon	False													3								

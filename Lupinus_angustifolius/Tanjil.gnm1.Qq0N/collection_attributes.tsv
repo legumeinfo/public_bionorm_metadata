@@ -1,0 +1,11 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	lupan.Tanjil.gnm1.Qq0N.scaffolds.fna.gz	genome	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	True													1								
+1	MANIFEST.Qq0N.correspondence.yml	genome	correspondence	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False													1								
+2	lupan.Tanjil.gnm1.Qq0N.genome_main.fna.gz.gzi	genome	gzindex	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False					genome								1								
+3	original_readme.lupinexpress.txt	genome	original_text	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False													1								
+4	lupan.Tanjil.gnm1.Qq0N.genome_main.fna.gz.fai	genome	faidx	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False					genome								1								
+5	MANIFEST.Qq0N.descriptions.yml	genome	descriptions	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False													1								
+6	lupan.Tanjil.gnm1.Qq0N.scaffolds_unassigned.fna.gz	genome	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	True													1								
+7	README.Qq0N.yml	genome	readme	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False													1								
+8	lupan.Tanjil.gnm1.Qq0N.genome_main.fna.gz	genome	genome	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	True													1								
+9	CHECKSUM.Qq0N.md5	genome	checksum	Lupinus	angustifolius	Lupinus angustifolius	lupan	Qq0N	Tanjil	False													1								

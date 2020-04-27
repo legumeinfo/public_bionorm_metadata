@@ -1,0 +1,15 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.4PTR.correspondence.yml	genome	correspondence	Glycine	max	Glycine max	glyma	4PTR	Wm82	False													4								
+1	glyma.Wm82.gnm4.4PTR.genome_hardmasked.fna.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+2	glyma.Wm82.gnm4.4PTR.BssSI_01_EXP_REFINEFINAL1.cmap.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+3	glyma.Wm82.gnm4.4PTR.BspQI_Molecules.bnx.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+4	glyma.Wm82.gnm4.4PTR.info_name_hash.txt	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	False													4								
+5	glyma.Wm82.gnm4.4PTR.genome_softmasked.fna.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+6	README.4PTR.yml	genome	readme	Glycine	max	Glycine max	glyma	4PTR	Wm82	False													4								
+7	MANIFEST.4PTR.descriptions.yml	genome	descriptions	Glycine	max	Glycine max	glyma	4PTR	Wm82	False													4								
+8	glyma.Wm82.gnm4.4PTR.BspQI_01_EXP_REFINEFINAL1.cmap.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+9	glyma.Wm82.gnm4.4PTR.genome_main.fna.gz.fai	genome	faidx	Glycine	max	Glycine max	glyma	4PTR	Wm82	False					genome								4								
+10	glyma.Wm82.gnm4.4PTR.genome_main.fna.gz.gzi	genome	gzindex	Glycine	max	Glycine max	glyma	4PTR	Wm82	False					genome								4								
+11	glyma.Wm82.gnm4.4PTR.BssSI_Molecules.bnx.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								
+12	CHECKSUM.4PTR.md5	genome	checksum	Glycine	max	Glycine max	glyma	4PTR	Wm82	False													4								
+13	glyma.Wm82.gnm4.4PTR.genome_main.fna.gz	genome	genome	Glycine	max	Glycine max	glyma	4PTR	Wm82	True													4								

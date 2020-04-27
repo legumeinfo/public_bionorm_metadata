@@ -1,0 +1,29 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	vigun.IT97K-499-35.gnm1.ann1.zb5D.defline.txt.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+1	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein_primaryTranscript.faa.gz	annotation	primary	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+2	CHECKSUM.zb5D.md5	annotation	checksum	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+3	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein.faa.gz	annotation	protein	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+4	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript.fna.gz.fai	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+5	vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz.tbi	annotation	tabix	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					gff	1							1								
+6	vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz	annotation	gff	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+7	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds_primaryTranscript.fna.gz.gzi	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+8	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+9	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz	annotation	cds	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+10	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz.gzi	annotation	gzindex	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					cds	1							1								
+11	MANIFEST.zb5D.descriptions.yml	annotation	descriptions	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+12	MANIFEST.zb5D.correspondence.yml	annotation	correspondence	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+13	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript_primaryTranscript.fna.gz.gzi	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+14	vigun.IT97K-499-35.gnm1.ann1.zb5D.annotation_info.txt.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+15	vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models.gff3.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+16	README.zb5D.yml	annotation	readme	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+17	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein.faa.gz.fai	annotation	faidx	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					protein	1							1								
+18	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein.faa.gz.gzi	annotation	gzindex	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					protein	1							1								
+19	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript_primaryTranscript.fna.gz.fai	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+20	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein_primaryTranscript.faa.gz.fai	annotation	faidx	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					primary	1							1								
+21	vigun.IT97K-499-35.gnm1.ann1.zb5D.protein_primaryTranscript.faa.gz.gzi	annotation	gzindex	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					primary	1							1								
+22	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds_primaryTranscript.fna.gz.fai	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+23	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz.fai	annotation	faidx	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False					cds	1							1								
+24	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript.fna.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+25	vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript.fna.gz.gzi	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	False						1							1								
+26	vigun.IT97K-499-35.gnm1.ann1.zb5D.cds_primaryTranscript.fna.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								
+27	vigun.IT97K-499-35.gnm1.ann1.zb5D.repeatmasking.gff3.gz	annotation	unrecognized	Vigna	unguiculata	Vigna unguiculata	vigun	zb5D	IT97K-499-35	True						1							1								

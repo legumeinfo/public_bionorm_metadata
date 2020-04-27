@@ -1,0 +1,17 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_main.gff3.gz.tbi	annotation	tabix	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False					gff	1							1								
+1	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_snRNA.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+2	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_pchr_plus_scaff.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+3	CHECKSUM.nnV9.md5	annotation	checksum	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False						1							1								
+4	lupan.Tanjil.gnm1.ann1.nnV9.rgene_models_RNA.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+5	MANIFEST.nnV9.descriptions.yml	annotation	descriptions	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False						1							1								
+6	README.nnV9.yml	annotation	readme	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False						1							1								
+7	lupan.Tanjil.gnm1.ann1.nnV9.protein.faa.gz	annotation	protein	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+8	MANIFEST.nnV9.correspondence.yml	annotation	correspondence	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False						1							1								
+9	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_tRNA.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+10	original_readme.lupinexpress.txt	annotation	original_text	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	False						1							1								
+11	lupan.Tanjil.gnm1.ann1.nnV9.cds_all.fna.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+12	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_miRNA.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+13	lupan.Tanjil.gnm1.ann1.nnV9.gene_models_main.gff3.gz	annotation	gff	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+14	lupan.Tanjil.gnm1.ann1.nnV9.scaffolds_in_pchr.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								
+15	lupan.Tanjil.gnm1.ann1.nnV9.gene_models.gff3.gz	annotation	unrecognized	Lupinus	angustifolius	Lupinus angustifolius	lupan	nnV9	Tanjil	True						1							1								

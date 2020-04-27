@@ -1,0 +1,11 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.zBnF.descriptions.yml	genome	descriptions	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False													1								
+1	original_Pvulgaris_218_v1.0.readme.txt	genome	original_text	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False													1								
+2	phavu.G19833.gnm1.zBnF.genome_main.fna.gz	genome	genome	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	True													1								
+3	phavu.G19833.gnm1.zBnF.genome_softmasked.fna.gz	genome	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	True													1								
+4	MANIFEST.zBnF.correspondence.yml	genome	correspondence	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False													1								
+5	README.zBnF.yml	genome	readme	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False													1								
+6	CHECKSUM.zBnF.md5	genome	checksum	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False													1								
+7	phavu.G19833.gnm1.zBnF.genome_main.fna.gz.fai	genome	faidx	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False					genome								1								
+8	phavu.G19833.gnm1.zBnF.genome_main.fna.gz.gzi	genome	gzindex	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	False					genome								1								
+9	phavu.G19833.gnm1.zBnF.genome_hardmasked.fna.gz	genome	unrecognized	Phaseolus	vulgaris	Phaseolus vulgaris	phavu	zBnF	G19833	True													1								

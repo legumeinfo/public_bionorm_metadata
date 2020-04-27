@@ -1,0 +1,9 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz.gzi	genome	gzindex	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False					genome								1								
+1	medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz	genome	genome	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	True													1								
+2	usage_policy.txt	genome	unrecognized	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False													1								
+3	medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz.fai	genome	faidx	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False					genome								1								
+4	CHECKSUM.rVNY.md5	genome	checksum	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False													1								
+5	MANIFEST.rVNY.descriptions.yml	genome	descriptions	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False													1								
+6	README.rVNY.yml	genome	readme	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False													1								
+7	MANIFEST.rVNY.correspondence.yml	genome	correspondence	Medicago	sativa	Medicago sativa	medsa	rVNY	CADL_HM342	False													1								

@@ -1,0 +1,10 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz	annotation	protein	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	True						1							3								
+1	lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz	annotation	gff	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	True						1							3								
+2	lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi	annotation	tabix	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	False					gff	1							3								
+3	MANIFEST.WF9B.correspondence.yml	annotation	correspondence	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	False						1							3								
+4	lotja.MG20.gnm3.ann1.WF9B.cDNA.fna.gz	annotation	unrecognized	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	True						1							3								
+5	CHECKSUM.WF9B.md5	annotation	checksum	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	False						1							3								
+6	README.WF9B.yml	annotation	readme	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	False						1							3								
+7	lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz	annotation	cds	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	True						1							3								
+8	MANIFEST.WF9B.descriptions.yml	annotation	descriptions	Lotus	japonicus	Lotus japonicus	lotja	WF9B	MG20	False						1							3								

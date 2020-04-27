@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.6VW9.correspondence.yml	genome	correspondence	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False													1								
+1	README.6VW9.yml	genome	readme	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False													1								
+2	CHECKSUM.6VW9.md5	genome	checksum	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False													1								
+3	medtr.HM034.gnm1.6VW9.genome_main.fna.gz.fai	genome	faidx	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False					genome								1								
+4	medtr.HM034.gnm1.6VW9.genome_main.fna.gz	genome	genome	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	True													1								
+5	MANIFEST.6VW9.descriptions.yml	genome	descriptions	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False													1								
+6	medtr.HM034.gnm1.6VW9.genome_main.fna.gz.gzi	genome	gzindex	Medicago	truncatula	Medicago truncatula	medtr	6VW9	HM034	False					genome								1								

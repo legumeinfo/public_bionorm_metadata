@@ -1,0 +1,18 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	original_README.txt	annotation	original_text	Glycine	soja	Glycine soja	glyso	T47J	W05	False						1							1								
+1	glyso.W05.gnm1.ann1.T47J.info.NCBIvsLocal.gene.ID.map.txt.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+2	glyso.W05.gnm1.ann1.T47J.protein_primaryTranscript.faa.gz	annotation	primary	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+3	MANIFEST.T47J.descriptions.yml	annotation	descriptions	Glycine	soja	Glycine soja	glyso	T47J	W05	False						1							1								
+4	glyso.W05.gnm1.ann1.T47J.protein.faa.gz	annotation	protein	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+5	glyso.W05.gnm1.ann1.T47J.transcript.fna.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+6	glyso.W05.gnm1.ann1.T47J.gene_models_main.gff3.gz	annotation	gff	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+7	CHECKSUM.T47J.md5	annotation	checksum	Glycine	soja	Glycine soja	glyso	T47J	W05	False						1							1								
+8	glyso.W05.gnm1.ann1.T47J.info.NCBIvsLocal.Seq.ID.map.txt.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+9	glyso.W05.gnm1.ann1.T47J.info_gene_annot.txt.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+10	glyso.W05.gnm1.ann1.T47J.gene_models_main.gff3.gz.tbi	annotation	tabix	Glycine	soja	Glycine soja	glyso	T47J	W05	False					gff	1							1								
+11	glyso.W05.gnm1.ann1.T47J.bad_gene_10G027808.gff3.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+12	glyso.W05.gnm1.ann1.T47J.cds_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+13	glyso.W05.gnm1.ann1.T47J.info_annot_InterProScan.txt.gz	annotation	unrecognized	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+14	MANIFEST.T47J.correspondence.yml	annotation	correspondence	Glycine	soja	Glycine soja	glyso	T47J	W05	False						1							1								
+15	glyso.W05.gnm1.ann1.T47J.cds.fna.gz	annotation	cds	Glycine	soja	Glycine soja	glyso	T47J	W05	True						1							1								
+16	README.T47J.yml	annotation	readme	Glycine	soja	Glycine soja	glyso	T47J	W05	False						1							1								

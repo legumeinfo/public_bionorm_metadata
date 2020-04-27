@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.JVBP.descriptions.yml	genome	descriptions	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False													1								
+1	README.JVBP.yml	genome	readme	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False													1								
+2	medtr.HM058.gnm1.JVBP.genome_main.fna.gz.fai	genome	faidx	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False					genome								1								
+3	medtr.HM058.gnm1.JVBP.genome_main.fna.gz	genome	genome	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	True													1								
+4	medtr.HM058.gnm1.JVBP.genome_main.fna.gz.gzi	genome	gzindex	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False					genome								1								
+5	MANIFEST.JVBP.correspondence.yml	genome	correspondence	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False													1								
+6	CHECKSUM.JVBP.md5	genome	checksum	Medicago	truncatula	Medicago truncatula	medtr	JVBP	HM058	False													1								

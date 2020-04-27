@@ -1,0 +1,12 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	README.3Nz5.yml	annotation	readme	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	False						1							3								
+1	MANIFEST.3Nz5.descriptions.yml	annotation	descriptions	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	False						1							3								
+2	MANIFEST.3Nz5.correspondence.yml	annotation	correspondence	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	False						1							3								
+3	vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz	annotation	gff	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								
+4	vigan.Gyeongwon.gnm3.ann1.3Nz5.cds.fna.gz	annotation	cds	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								
+5	vigan.Gyeongwon.gnm3.ann1.3Nz5.cds_primaryTranscript.fna.gz	annotation	unrecognized	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								
+6	vigan.Gyeongwon.gnm3.ann1.3Nz5.info_annot_AHRD.txt.gz	annotation	unrecognized	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								
+7	CHECKSUM.3Nz5.md5	annotation	checksum	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	False						1							3								
+8	vigan.Gyeongwon.gnm3.ann1.3Nz5.protein.faa.gz	annotation	protein	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								
+9	vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz.tbi	annotation	tabix	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	False					gff	1							3								
+10	vigan.Gyeongwon.gnm3.ann1.3Nz5.protein_primaryTranscript.faa.gz	annotation	primary	Vigna	angularis	Vigna angularis	vigan	3Nz5	Gyeongwon	True						1							3								

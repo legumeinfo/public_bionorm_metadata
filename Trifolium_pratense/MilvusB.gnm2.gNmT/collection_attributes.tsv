@@ -1,0 +1,8 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	CHECKSUM.gNmT.md5	genome	checksum	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False													2								
+1	tripr.MilvusB.gnm2.gNmT.genome_main.fna.gz.fai	genome	faidx	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False					genome								2								
+2	README.gNmT.yml	genome	readme	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False													2								
+3	tripr.MilvusB.gnm2.gNmT.genome_main.fna.gz.gzi	genome	gzindex	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False					genome								2								
+4	MANIFEST.gNmT.descriptions.yml	genome	descriptions	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False													2								
+5	tripr.MilvusB.gnm2.gNmT.genome_main.fna.gz	genome	genome	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	True													2								
+6	MANIFEST.gNmT.correspondence.yml	genome	correspondence	Trifolium	pratense	Trifolium pratense	tripr	gNmT	MilvusB	False													2								

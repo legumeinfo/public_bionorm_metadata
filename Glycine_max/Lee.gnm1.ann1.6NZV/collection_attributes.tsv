@@ -1,0 +1,18 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	glyma.Lee.gnm1.ann1.6NZV.cds.fna.gz	annotation	cds	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+1	glyma.Lee.gnm1.ann1.6NZV.protein_primaryTranscript.faa.gz	annotation	primary	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+2	glyma.Lee.gnm1.ann1.6NZV.info_annot.txt.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+3	glyma.Lee.gnm1.ann1.6NZV.gene_models.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+4	glyma.Lee.gnm1.ann1.6NZV.cds_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+5	README.6NZV.yml	annotation	readme	Glycine	max	Glycine max	glyma	6NZV	Lee	False						1							1								
+6	MANIFEST.6NZV.descriptions.yml	annotation	descriptions	Glycine	max	Glycine max	glyma	6NZV	Lee	False						1							1								
+7	glyma.Lee.gnm1.ann1.6NZV.gene_models.gff3.gz.tbi	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	False						1							1								
+8	CHECKSUM.6NZV.md5	annotation	checksum	Glycine	max	Glycine max	glyma	6NZV	Lee	False						1							1								
+9	glyma.Lee.gnm1.ann1.6NZV.gene_models_main.gff3.gz	annotation	gff	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+10	MANIFEST.6NZV.correspondence.yml	annotation	correspondence	Glycine	max	Glycine max	glyma	6NZV	Lee	False						1							1								
+11	glyma.Lee.gnm1.ann1.6NZV.repeatmasking.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+12	glyma.Lee.gnm1.ann1.6NZV.transcript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+13	glyma.Lee.gnm1.ann1.6NZV.transcript_primaryTranscript.fna.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+14	glyma.Lee.gnm1.ann1.6NZV.gene_models_exons.gff3.gz	annotation	unrecognized	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+15	glyma.Lee.gnm1.ann1.6NZV.protein.faa.gz	annotation	protein	Glycine	max	Glycine max	glyma	6NZV	Lee	True						1							1								
+16	glyma.Lee.gnm1.ann1.6NZV.gene_models_main.gff3.gz.tbi	annotation	tabix	Glycine	max	Glycine max	glyma	6NZV	Lee	False					gff	1							1								

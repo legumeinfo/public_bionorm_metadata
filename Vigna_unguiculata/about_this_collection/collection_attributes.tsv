@@ -1,0 +1,3 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	strains_Vigna_unguiculata.yml	about	strains	Vigna	unguiculata	Vigna unguiculata	vigun			False																					
+1	description_Vigna_unguiculata.yml	about	description	Vigna	unguiculata	Vigna unguiculata	vigun			False																					

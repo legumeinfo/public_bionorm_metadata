@@ -1,0 +1,5 @@
+[repository]
+title = "Legume Information System public repository"
+url = "https://legumeinfo.org"
+download_url = "https://v1.legumefederation.org/data/index/public"
+version = "0.7.0"

@@ -1,0 +1,12 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	original_README.txt	genome	original_text	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+1	MANIFEST.DTC4.descriptions.yml	genome	descriptions	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+2	glyma.Wm82.gnm2.DTC4.genome_softmasked.fna.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	DTC4	Wm82	True													2								
+3	CHECKSUM.DTC4.md5	genome	checksum	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+4	original_data_usage_policy.txt	genome	original_text	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+5	glyma.Wm82.gnm2.DTC4.genome_main.fna.gz	genome	genome	Glycine	max	Glycine max	glyma	DTC4	Wm82	True													2								
+6	glyma.Wm82.gnm2.DTC4.genome_main.fna.gz.gzi	genome	gzindex	Glycine	max	Glycine max	glyma	DTC4	Wm82	False					genome								2								
+7	MANIFEST.DTC4.correspondence.yml	genome	correspondence	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+8	README.DTC4.yml	genome	readme	Glycine	max	Glycine max	glyma	DTC4	Wm82	False													2								
+9	glyma.Wm82.gnm2.DTC4.genome_hardmasked.fna.gz	genome	unrecognized	Glycine	max	Glycine max	glyma	DTC4	Wm82	True													2								
+10	glyma.Wm82.gnm2.DTC4.genome_main.fna.gz.fai	genome	faidx	Glycine	max	Glycine max	glyma	DTC4	Wm82	False					genome								2								

@@ -1,0 +1,23 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_GO.txt.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+1	cicar.CDCFrontier.gnm1.ann1.nRhs.annot_snRNA.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+2	cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_repeatmasker.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+3	cicar.CDCFrontier.gnm1.ann1.nRhs.cds.fna.gz	annotation	cds	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+4	cicar.CDCFrontier.gnm1.ann1.nRhs.gene_models_GLEAN.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+5	cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_KEGG.txt.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+6	cicar.CDCFrontier.gnm1.ann1.nRhs.gene_models_main.gff3.gz.tbi	annotation	tabix	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	False					gff	1							1								
+7	cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_denovo.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+8	cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_trf.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+9	MANIFEST.nRhs.correspondence.yml	annotation	correspondence	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	False						1							1								
+10	cicar.CDCFrontier.gnm1.ann1.nRhs.annot_miRNA.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+11	cicar.CDCFrontier.gnm1.ann1.nRhs.protein.faa.gz	annotation	protein	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+12	cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_Swissprot.txt.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+13	README.nRhs.yml	annotation	readme	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	False						1							1								
+14	cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_TrEMBL.txt.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+15	CHECKSUM.nRhs.md5	annotation	checksum	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	False						1							1								
+16	MANIFEST.nRhs.descriptions.yml	annotation	descriptions	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	False						1							1								
+17	cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_proteinmask.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+18	cicar.CDCFrontier.gnm1.ann1.nRhs.annot_tRNA.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+19	cicar.CDCFrontier.gnm1.ann1.nRhs.annot_rRNA.gff.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+20	cicar.CDCFrontier.gnm1.ann1.nRhs.gene_models_main.gff3.gz	annotation	gff	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								
+21	cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_InterPro.txt.gz	annotation	unrecognized	Cicer	arietinum	Cicer arietinum	cicar	nRhs	CDCFrontier	True						1							1								

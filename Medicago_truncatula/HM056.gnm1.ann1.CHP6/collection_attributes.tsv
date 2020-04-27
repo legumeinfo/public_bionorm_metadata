@@ -1,0 +1,16 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	medtr.HM056.gnm1.ann1.CHP6.mrna.fna.gz	annotation	mrna	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	True						1							1								
+1	medtr.HM056.gnm1.ann1.CHP6.mrna.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					mrna	1							1								
+2	medtr.HM056.gnm1.ann1.CHP6.cds.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					cds	1							1								
+3	medtr.HM056.gnm1.ann1.CHP6.mrna.fna.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					mrna	1							1								
+4	CHECKSUM.CHP6.md5	annotation	checksum	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False						1							1								
+5	medtr.HM056.gnm1.ann1.CHP6.gene_models_main.gff3.gz.tbi	annotation	tabix	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					gff	1							1								
+6	MANIFEST.CHP6.correspondence.yml	annotation	correspondence	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False						1							1								
+7	README.CHP6.yml	annotation	readme	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False						1							1								
+8	medtr.HM056.gnm1.ann1.CHP6.protein.faa.gz.fai	annotation	faidx	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					protein	1							1								
+9	medtr.HM056.gnm1.ann1.CHP6.cds.fna.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					cds	1							1								
+10	medtr.HM056.gnm1.ann1.CHP6.protein.faa.gz.gzi	annotation	gzindex	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False					protein	1							1								
+11	medtr.HM056.gnm1.ann1.CHP6.cds.fna.gz	annotation	cds	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	True						1							1								
+12	medtr.HM056.gnm1.ann1.CHP6.protein.faa.gz	annotation	protein	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	True						1							1								
+13	medtr.HM056.gnm1.ann1.CHP6.gene_models_main.gff3.gz	annotation	gff	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	True						1							1								
+14	MANIFEST.CHP6.descriptions.yml	annotation	descriptions	Medicago	truncatula	Medicago truncatula	medtr	CHP6	HM056	False						1							1								

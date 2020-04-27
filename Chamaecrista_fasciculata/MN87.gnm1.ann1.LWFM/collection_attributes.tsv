@@ -1,0 +1,11 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	chafa.MN87.gnm1.ann1.LWFM.cds.fna.gz	annotation	cds	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+1	chafa.MN87.gnm1.ann1.LWFM.gene_models_main.gff3.gz	annotation	gff	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+2	chafa.MN87.gnm1.ann1.LWFM.protein.faa.gz	annotation	protein	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+3	README.LWFM.yml	annotation	readme	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	False						1							1								
+4	chafa.MN87.gnm1.ann1.LWFM.info_function.txt.gz	annotation	unrecognized	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+5	MANIFEST.LWFM.correspondence.yml	annotation	correspondence	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	False						1							1								
+6	MANIFEST.LWFM.descriptions.yml	annotation	descriptions	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	False						1							1								
+7	chafa.MN87.gnm1.ann1.LWFM.fragments.tar.gz	annotation	unrecognized	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+8	chafa.MN87.gnm1.ann1.LWFM.annot_info.txt.gz	annotation	unrecognized	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								
+9	chafa.MN87.gnm1.ann1.LWFM.repeats.gff3.gz	annotation	unrecognized	Chamaecrista	fasciculata	Chamaecrista fasciculata	chafa	LWFM	MN87	True						1							1								

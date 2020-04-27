@@ -1,0 +1,6 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.QPGB.correspondence.yml	genome	correspondence	Lotus	japonicus	Lotus japonicus	lotja	QPGB	MG20	False													3								
+1	lotja.MG20.gnm3.QPGB.genome_main.fna.gz	genome	genome	Lotus	japonicus	Lotus japonicus	lotja	QPGB	MG20	True													3								
+2	README.QPGB.yml	genome	readme	Lotus	japonicus	Lotus japonicus	lotja	QPGB	MG20	False													3								
+3	MANIFEST.QPGB.description.yml	genome	invalid	Lotus	japonicus	Lotus japonicus	lotja	QPGB	MG20	False	type	description											3								
+4	CHECKSUM.QPGB.md5	genome	checksum	Lotus	japonicus	Lotus japonicus	lotja	QPGB	MG20	False													3								

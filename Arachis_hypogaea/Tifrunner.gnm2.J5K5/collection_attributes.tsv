@@ -1,0 +1,12 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	MANIFEST.J5K5.descriptions.yml	genome	descriptions	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False													2								
+1	arahy.Tifrunner.gnm2.J5K5.info_nucmer_coords.tar.gz	genome	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	True													2								
+2	README.HiC_assembly.json	genome	invalid	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False	dots_in_name	3.0											2								
+3	README.J5K5.yml	genome	readme	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False													2								
+4	MANIFEST.J5K5.correspondence.yml	genome	correspondence	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False													2								
+5	arahy.Tifrunner.gnm2.J5K5.info_nucmer_plots.tar.gz	genome	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	True													2								
+6	arahy.Tifrunner.gnm2.J5K5.genome_main.fna.gz	genome	genome	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	True													2								
+7	arahy.Tifrunner.gnm2.J5K5.info_HiC_assembly.txt.gz	genome	unrecognized	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	True													2								
+8	arahy.Tifrunner.gnm2.J5K5.genome_main.fna.gz.fai	genome	faidx	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False					genome								2								
+9	arahy.Tifrunner.gnm2.J5K5.genome_main.fna.gz.gzi	genome	gzindex	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False					genome								2								
+10	CHECKSUM.J5K5.md5	genome	checksum	Arachis	hypogaea	Arachis hypogaea	arahy	J5K5	Tifrunner	False													2								

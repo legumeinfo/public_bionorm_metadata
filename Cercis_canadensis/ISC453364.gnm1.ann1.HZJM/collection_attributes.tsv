@@ -1,0 +1,12 @@
+	file_name	dir_type	file_type	genus	species	scientific_name	scientific_name_abbrev	identifier	genotype	compressed	invalid_key	invalid_val	about_dir	annotation_dir	applies_to	ann	bac	div	expr	esm	fam	genefam	gnm	map	met	mrk	rpt	samplesetN	syn	tcp	trt
+0	README.HZJM.yml	annotation	readme	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	False						1							1								
+1	cerca.ISC453364.gnm1.B05Z.cds.fna.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
+2	MANIFEST.HZJM.descriptions.yml	annotation	descriptions	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	False						1							1								
+3	cerca.ISC453364.gnm1.B05Z.gene_models_main.gff3.gz.tbi	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	False	ann	B05Z				1							1								
+4	MANIFEST.HZJM.correspondence.yml	annotation	correspondence	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	False						1							1								
+5	cerca.ISC453364.gnm1.B05Z.repeats.gff3.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
+6	cerca.ISC453364.gnm1.B05Z.fragments.tar.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
+7	cerca.ISC453364.gnm1.B05Z.protein.faa.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
+8	cerca.ISC453364.gnm1.B05Z.gene_models_main.gff3.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
+9	CHECKSUM.B05Z.md5	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	False	identifier	B05Z				1							1								
+10	cerca.ISC453364.gnm1.B05Z.info_annot.txt.gz	annotation	invalid	Cercis	canadensis	Cercis canadensis	cerca	HZJM	ISC453364	True	ann	B05Z				1							1								
